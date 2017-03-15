@@ -2,6 +2,7 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <file url="file://$PROJECT_DIR$" libraries="{todosVueCordova/node_modules}" />
+    <file url="file://$PROJECT_DIR$/platforms/android/cordova" libraries="{todosVueCordova/platforms/android/cordova/node_modules}" />
     <file url="file://$PROJECT_DIR$/platforms/browser/cordova" libraries="{todosVueCordova/platforms/browser/cordova/node_modules}" />
   </component>
 </project>
